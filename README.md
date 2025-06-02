@@ -16,7 +16,7 @@ A simple, responsive stopwatch web application built using HTML, CSS, and vanill
 
 ## 🖥️ Live Demo
 
-👉 [View the App on GitHub Pages](https://Mayankg-13.github.io/stopwatch-app/)
+👉 [View the App on GitHub Pages](https://Mayankg-13.github.io/PRODIGY_WD_02/)
 
 
 
@@ -35,5 +35,5 @@ stopwatch-app/
 
 1. Clone or download the repo:
    ```bash
-   git clone https://github.com/Mayankg-13/stopwatch-app.git
-   cd stopwatch-app
+   git clone https://github.com/Mayankg-13/PRODIGY_WD_02.git
+   cd PRODIGY_WD_02
